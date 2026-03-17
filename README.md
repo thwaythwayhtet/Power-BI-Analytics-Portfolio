@@ -39,11 +39,22 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
 
 📈 **Maven Market Performance Dashboard**
-* Description:
-* Business problem:
-* Objectives:
-* Key Insights:
-* Click here to check the complete project
+* **Description**: The Maven Market Performance Dashboard is an interactive report developed using Microsoft Power BI to provide a comprehensive view of business performance across key dimensions, including sales, product categories, customer segments, and regional trends.
+  
+ * **Objectives**: The main objectives of this dashboard are to:
+  * Provide a centralized view of key business metrics (sales, profit, growth)
+  * Analyze performance trends over time to identify growth opportunities
+  * Compare regional and category-level performance
+  * Understand customer segments and purchasing patterns
+  * Enable faster, data-driven decision-making through interactive visuals
+
+  * **Key Insights**:
+  * Overall Performance
+  * Regional Sales Trend
+  * Product performance
+  * Customer insights
+    
+* [**Click here to check the complete project**]() <br><br>
 
  
 ## 📚 What This Portfolio Demonstrates <br> 
