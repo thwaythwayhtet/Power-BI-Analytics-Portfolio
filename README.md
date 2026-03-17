@@ -14,7 +14,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
 ## 📁 Featured Projects
 
-📈 **Airbnb Performance Dashboard**
+📈 **AIRBNB: END-TO-END PROJECT**
 * **Description**: This project presents an interactive dashboard analyzing listing performance on Airbnb using Microsoft Power BI.
   
 * **Business Problem**: Airbnb operates in a highly competitive short-term rental market where hosts must balance pricing strategies, availability, and property attractiveness to maximize occupancy and revenue. However, many hosts lack clear analytical insights into which factors most strongly influence listing performance, such as neighborhood demand, room type, pricing levels, and seasonal booking patterns. As a result, hosts may set suboptimal prices or fail to identify high-demand areas, leading to lower occupancy rates and missed revenue opportunities.
@@ -30,7 +30,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
   
   
 
-📈 **Adventure Work Performance Dashboard**
+📈 **ADVENTURE WORK: END-TO-END PROJECT**
 * **Description**: This is a guided project using datasets from the Adventure Works sample database. The project mainly focuses on applying core data modeling and visualization techniques to transform raw data into meaningful business insights.
   
  * **Objectives**: The main objectives of this guided project are to:
@@ -39,11 +39,11 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
     * Create calculated columns and measures using DAX to support analysis
     * Design an interactive dashboard to effectively visualize and communicate insights
 
-* [**Click here to check the complete project**]() <br><br>
+* [**Click here to check the complete project**](https://github.com/thwaythwayhtet/Adventure-Work-Performance-Dashboard/tree/main) <br><br>
 
 
 
-📈 **Maven Market Performance Dashboard**
+📈 **MAVEN MARKET PERFORMANCE ANALYSIS**
 * **Description**: The Maven Market Performance Dashboard is an interactive report developed using Microsoft Power BI to provide a comprehensive view of business performance across key dimensions, including sales, product categories, customer segments, and regional trends.
   
  * **Objectives**: The main objectives of this dashboard are to:
