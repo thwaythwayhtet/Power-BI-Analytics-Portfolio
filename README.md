@@ -35,7 +35,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 * Business problem:  
 * Objectives: 
 * Key Insights:
-* Click here to check the complete project
+* Click here to check the complete project <br> <br> 
 
 
 📈 **Maven Market Performance Dashboard**
@@ -46,11 +46,12 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 * Click here to check the complete project
 
  
-## 📚 What This Portfolio Demonstrates
-* Data Cleaning <br> Data Modeling
-* Interactive Dashboards
-* Forecasting & Trend Analysis
-* Business Intelligence Reporting
+## 📚 What This Portfolio Demonstrates <br> 
+✔ Data Cleaning <br> 
+✔ Data Modeling <br> 
+✔ Interactive Dashboards <br> 
+✔ Forecasting & Trend Analysis <br> 
+✔ Business Intelligence Reporting <br> 
 
 ## 📫 Connect With Me
 * 💼 LinkedIn: 
