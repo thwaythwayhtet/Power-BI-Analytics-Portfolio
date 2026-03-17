@@ -26,7 +26,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
   * Rating Analysis
   * Review Analysis
     
-* [**Click here to check the complete project**]() <br><br>
+* [**Click here to check the complete project**](https://github.com/thwaythwayhtet/Airbnb-Performance-Dashboard/blob/main/README.md) <br><br>
   
   
 
