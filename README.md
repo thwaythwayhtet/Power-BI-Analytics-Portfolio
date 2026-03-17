@@ -1,6 +1,6 @@
 ## 📊 Power BI Analytics Portfolio
 
-#Welcome to my Power BI Portfolio!
+**Welcome to my Power BI Portfolio!**
 
 Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. My passion lies in Demand Forecasting, Supply Chain analytics, Business Analytics and Statistics. This repository showcases my analytics projects using Power BI dashboards, data modeling, and business insights. Please check out them below!
 
@@ -41,7 +41,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
  
 ## 📚 What This Portfolio Demonstrates
-* ✔ Data Cleaning
+  ✔ Data Cleaning
 * ✔ Data Modeling
 * ✔ Interactive Dashboards
 * ✔ Forecasting & Trend Analysis
