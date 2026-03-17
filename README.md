@@ -26,7 +26,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
   * Rating Analysis
   * Review Analysis
     
-* [**Click here to check the complete project**]()
+* [**Click here to check the complete project**]() <br><br>
   
   
 
@@ -47,8 +47,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
  
 ## 📚 What This Portfolio Demonstrates
-* Data Cleaning
-* Data Modeling
+* Data Cleaning <br> Data Modeling
 * Interactive Dashboards
 * Forecasting & Trend Analysis
 * Business Intelligence Reporting
