@@ -15,14 +15,17 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 ## 📁 Featured Projects
 
 📈 **Airbnb Performance Dashboard**
-* **Description**: This project presents an interactive dashboard analyzing listing performance on Airbnb using Microsoft Power BI. 
+* **Description**: This project presents an interactive dashboard analyzing listing performance on Airbnb using Microsoft Power BI.
+  
 * **Business Problem**: Airbnb operates in a highly competitive short-term rental market where hosts must balance pricing strategies, availability, and property attractiveness to maximize occupancy and revenue. However, many hosts lack clear analytical insights into which factors most strongly influence listing performance, such as neighborhood demand, room type, pricing levels, and seasonal booking patterns. As a result, hosts may set suboptimal prices or fail to identify high-demand areas, leading to lower occupancy rates and missed revenue opportunities.
+  
 * **Objectives**: Apply ETL framework (Extra, Transform, Load), Data analysis (using DAX), and Visualization skills to analyze Airbnb data from over 250,000 listings in ten major cities. Then, identify any significant differences between cities, evaluate the cities which offer the best value for travel and identify trends or seasonality. Finally, provide valuable insights for both new and experienced Airbnb hosts, assisting them in making informed decisions about where and how to list their properties to maximize profitability.
+  
 * **Key Insights**:
   * Overall Performance
   * Rating Analysis
   * Review Analysis
-  * Click here to check the complete project
+* [**Click here to check the complete project**]()
 
 📈 **Adventure Work Performance Dashboard**
 * Description: 
@@ -42,10 +45,10 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
  
 ## 📚 What This Portfolio Demonstrates
   ✔ Data Cleaning
-* ✔ Data Modeling
-* ✔ Interactive Dashboards
-* ✔ Forecasting & Trend Analysis
-* ✔ Business Intelligence Reporting
+  ✔ Data Modeling
+  ✔ Interactive Dashboards
+  ✔ Forecasting & Trend Analysis
+  ✔ Business Intelligence Reporting
 
 ## 📫 Connect With Me
 * 💼 LinkedIn: 
