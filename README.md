@@ -31,11 +31,16 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
   
 
 📈 **Adventure Work Performance Dashboard**
-* Description: 
-* Business problem:  
-* Objectives: 
-* Key Insights:
-* Click here to check the complete project <br> <br> 
+* **Description**: This is a guided project using datasets from the Adventure Works sample database. The project mainly focuses on applying core data modeling and visualization techniques to transform raw data into meaningful business insights.
+  
+ * **Objectives**: The main objectives of this guided project are to:
+    * Connect to and transform raw data using Power Query
+    * Build a relational data model to establish meaningful relationships between tables
+    * Create calculated columns and measures using DAX to support analysis
+    * Design an interactive dashboard to effectively visualize and communicate insights
+
+* [**Click here to check the complete project**]() <br><br>
+
 
 
 📈 **Maven Market Performance Dashboard**
