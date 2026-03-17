@@ -44,17 +44,17 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
  * **Objectives**: The main objectives of this dashboard are to:
     * Provide a centralized view of key business metrics (sales, profit, growth)
     * Analyze performance trends over time to identify growth opportunities
-  * Compare regional and category-level performance
-  * Understand customer segments and purchasing patterns
-  * Enable faster, data-driven decision-making through interactive visuals
+    * Compare regional and category-level performance
+    * Understand customer segments and purchasing patterns
+    * Enable faster, data-driven decision-making through interactive visuals
 
   * **Key Insights**:
-  * Overall Performance
-  * Regional Sales Trend
-  * Product performance
-  * Customer insights
+    * Overall Performance
+    * Regional Sales Trend
+    * Product performance
+    * Customer insights
     
-* [**Click here to check the complete project**]() <br><br>
+* [**Click here to check the complete project**](https://github.com/thwaythwayhtet/Maven-Market-Performance-Dashboard/tree/main) <br><br>
 
  
 ## 📚 What This Portfolio Demonstrates <br> 
@@ -65,5 +65,5 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 ✔ Business Intelligence Reporting <br> 
 
 ## 📫 Connect With Me
-* 💼 LinkedIn: 
-* 💻 GitHub: 
+* 💼 [LinkedIn](www.linkedin.com/in/thway-thway-htet) 
+* 💻 [GitHub](https://github.com/thwaythwayhtet) 
