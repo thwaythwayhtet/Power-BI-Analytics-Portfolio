@@ -29,6 +29,7 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 * [**Click here to check the complete project**]()
 
 
+
 📈 **Adventure Work Performance Dashboard**
 * Description: 
 * Business problem:  
@@ -46,11 +47,11 @@ Hello, my name is Thway Thway. Currently, I work as a Demand Planning Analyst. M
 
  
 ## 📚 What This Portfolio Demonstrates
--m ✔ Data Cleaning
--m ✔ Data Modeling
--m ✔ Interactive Dashboards
-  ✔ Forecasting & Trend Analysis
-  ✔ Business Intelligence Reporting
+* Data Cleaning
+* Data Modeling
+* Interactive Dashboards
+* Forecasting & Trend Analysis
+* Business Intelligence Reporting
 
 ## 📫 Connect With Me
 * 💼 LinkedIn: 
